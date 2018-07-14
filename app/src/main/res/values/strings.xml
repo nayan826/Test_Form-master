@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">Test_Form</string>
+    <array name="list">
+        <item>Android</item>
+        <item>IOS</item>
+        <item>React Native</item>
+        <item>Windows</item>
+    </array>
+    <string name="erremail">
+        Email address is not correect
+    </string>
+    <string name="name">
+        Spaces and Numbers are not allowed
+    </string>
+    <string name="empty">
+        Cannot be left empty
+    </string>
+    <string name="pass">
+        Password length must be 8 or more should contain one number,a Special character and a capital letter
+    </string>
+    <string name="confirmerror">
+        Password does not match
+    </string>
+
+
+</resources>
